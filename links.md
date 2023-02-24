@@ -13,3 +13,9 @@ A video on basic linux commands, very thorough and easy to understand.
 [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
 PDF version of the book given my Mr. Rahmat. you can just open it in your browser.
 
+### Week 02
+[Cyber Security and Privacy](https://osp4diss.vlsm.org/osp-133.html)
+List of useful links that can help you learn about Cyber Security and Privacy.
+
+[SSH Cheatsheet](https://quickref.me/ssh)
+SSH commands that maybe useful in the future.
