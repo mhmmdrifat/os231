@@ -19,3 +19,11 @@ List of useful links that can help you learn about Cyber Security and Privacy.
 
 [SSH Cheatsheet](https://quickref.me/ssh)
 SSH commands that maybe useful in the future.
+
+### Week 03
+[An Introduction to Linux File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems)
+Useful article about Linux File Systems
+
+[Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+A video explaining basic understanding of Linux File Systems and its structure
+
