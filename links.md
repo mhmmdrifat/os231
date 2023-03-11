@@ -14,16 +14,23 @@ A video on basic linux commands, very thorough and easy to understand.
 PDF version of the book given my Mr. Rahmat. you can just open it in your browser.
 
 ### Week 02
-[Cyber Security and Privacy](https://osp4diss.vlsm.org/osp-133.html)
+[Cyber Security and Privacy](https://osp4diss.vlsm.org/osp-133.html)<br>
 List of useful links that can help you learn about Cyber Security and Privacy.
 
-[SSH Cheatsheet](https://quickref.me/ssh)
+[SSH Cheatsheet](https://quickref.me/ssh)<br>
 SSH commands that maybe useful in the future.
 
 ### Week 03
-[An Introduction to Linux File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems)
+[An Introduction to Linux File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
 Useful article about Linux File Systems
 
-[Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+[Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
 A video explaining basic understanding of Linux File Systems and its structure
+
+### Week 04
+[Understanding Memory Mapping](https://www.ibm.com/docs/en/aix/7.1?topic=memory-understanding-mapping)<br>
+Important documentation about Memory Mapping
+
+[C Development on Linux](https://linuxconfig.org/c-development-on-linux-pointers-and-arrays-vi)<br>
+Introduction on C development (including Pointers and Arrays)
 
