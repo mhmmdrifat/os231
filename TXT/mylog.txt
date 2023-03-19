@@ -45,3 +45,12 @@ ZCZC W04 20 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W04 5 L41 TXT/mylog.txt related.
 ZCZC W04 100 L41 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 30 L24 Scripting in general.
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 40 L05 Quiz related including studying
+ZCZC W05 70 L12 Assignment #02
+ZCZC W05 20 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W05 20 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 5 L41 TXT/mylog.txt related.
+ZCZC W05 100 L41 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 30 L24 Scripting in general.

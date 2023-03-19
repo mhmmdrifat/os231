@@ -34,3 +34,8 @@ Important documentation about Memory Mapping
 [C Development on Linux](https://linuxconfig.org/c-development-on-linux-pointers-and-arrays-vi)<br>
 Introduction on C development (including Pointers and Arrays)
 
+### Week 05
+[Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory)<br>
+Gives explanation on Virtual Memory
+[Virtual Memory on Linux](https://www.logicmonitor.com/blog/the-right-way-to-monitor-virtual-memory-on-linux)<br>
+Gives further understanding on how the Virtual Memory is used on Linux.
