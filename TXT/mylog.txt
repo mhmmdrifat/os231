@@ -54,3 +54,9 @@ ZCZC W05 20 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W05 5 L41 TXT/mylog.txt related.
 ZCZC W05 100 L41 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 30 L24 Scripting in general.
+ZCZC W06 10 L01 Do Pop Quiz on SCELE
+ZCZC W06 100 L00 Offline OS class 
+ZCZC W06 30 L05 Studying & doing quiz
+ZCZC W06 40 L08 Ask friend about OS
+ZCZC W06 45 L15 Assignment #6
+ZCZC W06 5 L41 Add log for Week 6
