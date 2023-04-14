@@ -46,3 +46,6 @@ This article gives a great explanation about fork() with several code examples a
 [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)<br>
 This video explains the meaning of thread in OS, the meaning and difference between Single-threaded process and Multi-threaded process, and also lets you know about the benefits of multi-threaded programming.
 
+### WEEK 07
+
+[Chat GPT] (https://chat.openai.com/chat)<br> Help me so much in understanding the error I encountered [SCP](https://askubuntu.com/questions/66492/scp-copy-over-ssh-doesnt-work-permission-denied-error-please)<br> The answered questions helps me understanding the scp
