@@ -49,3 +49,10 @@ This video explains the meaning of thread in OS, the meaning and difference betw
 ### WEEK 07
 
 [Chat GPT] (https://chat.openai.com/chat)<br> Help me so much in understanding the error I encountered [SCP](https://askubuntu.com/questions/66492/scp-copy-over-ssh-doesnt-work-permission-denied-error-please)<br> The answered questions helps me understanding the scp
+
+### WEEK 08
+[Compiling a Cross-Toolchain](https://www.linuxfromscratch.org/lfs/view/11.3/chapter05/introduction.html)<br>
+help me understand the whole point of Cross-Toolchain
+
+[Playlist for LFS](https://www.youtube.com/watch?v=2YykwZHdvD8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=1)<br>
+teach you step by step how to install LFS

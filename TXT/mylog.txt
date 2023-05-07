@@ -65,4 +65,10 @@ ZCZC W07 30 L05 Studying & doing quiz
 ZCZC W07 40 L08 Ask friend about OS
 ZCZC W07 45 L15 Assignment #7
 ZCZC W07 5 L41 Add log for Week 7
-ZCZC W07 5 L41 Add log for Week 7
+ZCZC W07 10 L01 Do Pop Quiz on SCELE
+ZCZC W08 100 L00 Offline OS class
+ZCZC W08 30 L05 Studying & doing quiz
+ZCZC W08 40 L08 Ask friend about OS
+ZCZC W08 45 L15 Assignment #8
+ZCZC W08 5 L41 Add log for Week 7
+ZCZC W08 10 L01 Do Pop Quiz OS Class
