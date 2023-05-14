@@ -54,6 +54,7 @@ This video explains the meaning of thread in OS, the meaning and difference betw
 [Compiling a Cross-Toolchain](https://www.linuxfromscratch.org/lfs/view/11.3/chapter05/introduction.html)<br>
 help me understand the whole point of Cross-Toolchain
 
+
 [Playlist for LFS](https://www.youtube.com/watch?v=2YykwZHdvD8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=1)<br>
 teach you step by step how to install LFS
 
@@ -62,4 +63,4 @@ teach you step by step how to install LFS
 help me understand the whole point of Cross Compiling
 
 [Playlist for LFS](https://www.youtube.com/watch?v=2YykwZHdvD8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=1)<br>
-teach you step by step how to install LFS
+teach you step by step how to install LFS.
