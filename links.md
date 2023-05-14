@@ -56,3 +56,10 @@ help me understand the whole point of Cross-Toolchain
 
 [Playlist for LFS](https://www.youtube.com/watch?v=2YykwZHdvD8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=1)<br>
 teach you step by step how to install LFS
+
+### WEEK 09
+[Cross Compiling Temporarty Tools]((https://www.linuxfromscratch.org/lfs/view/11.3/chapter06/introduction.html)<br>
+help me understand the whole point of Cross Compiling
+
+[Playlist for LFS](https://www.youtube.com/watch?v=2YykwZHdvD8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=1)<br>
+teach you step by step how to install LFS
